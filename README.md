@@ -20,6 +20,8 @@ The complete system behind these skills: **The Complete Job Search Kit** ($12) �
 
 ## Agent QA line
 
+**Agent Skill Pre-Flight Checklist** (free — in this repo: `agent-skill-pre-flight-checklist/SKILL.md`) — 12 pass/fail readiness checks to run on any SKILL.md before you publish or buy it. It is the static front door to the Test Lab below.
+
 **Agent Skill Behavior Test Lab** ($14.99, on Agensi) — blind behavior testing for SKILL.md skills: spec extraction, frozen blind cases, deterministic grading, safety sub-scores, and a release-gate verdict. Validated on a production skill (10/13 fail → 13/13 pass across two versions). Search Agensi for "Agent Skill Behavior Test Lab".
 
 ## Rules these skills are built under
